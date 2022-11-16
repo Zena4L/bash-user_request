@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Special paramters
-# $# and $0
+
 
 # $# give out the total number of parameters
 # #0 ecpends to the name of the script
